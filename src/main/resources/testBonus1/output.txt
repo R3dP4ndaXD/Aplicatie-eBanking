@@ -1,0 +1,5 @@
+{"email":"bob.stucky@email.com","firstname":"Bob","lastname":"Stucky","address":"687 Swanson Dr. New York NY 10024","friends":[]}
+{"stocks":[{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"44125.10"},{"currencyName":"GBP","amount":"100.00"},{"currencyName":"CAD","amount":"0.00"}]}
+{"stocks":[{"stockName":"ADBE","amount":10},{"stockName":"ORCL","amount":100}],"accounts":[{"currencyName":"USD","amount":"33649.10"},{"currencyName":"GBP","amount":"100.00"},{"currencyName":"CAD","amount":"0.00"}]}
+{"stocks":[{"stockName":"ADBE","amount":10},{"stockName":"ORCL","amount":100}],"accounts":[{"currencyName":"USD","amount":"33490.10"},{"currencyName":"GBP","amount":"100.00"},{"currencyName":"CAD","amount":"0.00"},{"currencyName":"EUR","amount":"100.00"}]}
+{"stocks":[{"stockName":"ADBE","amount":10},{"stockName":"ORCL","amount":100}],"accounts":[{"currencyName":"USD","amount":"9401.60"},{"currencyName":"GBP","amount":"39.40"},{"currencyName":"CAD","amount":"100.00"},{"currencyName":"EUR","amount":"15100.00"}]}
